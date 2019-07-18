@@ -33,7 +33,7 @@ public class Point {
     }
 
     boolean isOO(double coordinateX, double coordinateY){
-        return (coordinateX==0 && coordinateY ==0);
+        return (coordinateX==0 && coordinateY == 0);
     }
 
 }
